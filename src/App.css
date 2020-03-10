@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  background-image: url('./images/background.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+ul {
+  padding: 0;
+}
+
+ a {
+  padding: 5px;
+  border: 1px solid black;
+  margin-right: 10px;
+  color: red;
+}
+
+.App__header {
+  color: white;
+  size: 32px;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  max-width: 60vw;
+  list-style: none;
+}
+
+li:hover {
+  color: pink;
+}
+
+.active {
+  background-color: yellow;
+}
+
+.film {
+  color: green;
+  background-color: rgb(225, 225, 225);
+}
