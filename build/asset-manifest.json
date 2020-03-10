@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_dynamic-list-of-goods/static/css/main.21696689.chunk.css",
+    "main.js": "/react_dynamic-list-of-goods/static/js/main.b511851e.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-goods/static/js/main.b511851e.chunk.js.map",
+    "runtime-main.js": "/react_dynamic-list-of-goods/static/js/runtime-main.0cf2f8bf.js",
+    "runtime-main.js.map": "/react_dynamic-list-of-goods/static/js/runtime-main.0cf2f8bf.js.map",
+    "static/js/2.c0f4f830.chunk.js": "/react_dynamic-list-of-goods/static/js/2.c0f4f830.chunk.js",
+    "static/js/2.c0f4f830.chunk.js.map": "/react_dynamic-list-of-goods/static/js/2.c0f4f830.chunk.js.map",
+    "index.html": "/react_dynamic-list-of-goods/index.html",
+    "precache-manifest.716cc3c15fda3191aa2a19a8e0846361.js": "/react_dynamic-list-of-goods/precache-manifest.716cc3c15fda3191aa2a19a8e0846361.js",
+    "service-worker.js": "/react_dynamic-list-of-goods/service-worker.js",
+    "static/css/main.21696689.chunk.css.map": "/react_dynamic-list-of-goods/static/css/main.21696689.chunk.css.map",
+    "static/js/2.c0f4f830.chunk.js.LICENSE.txt": "/react_dynamic-list-of-goods/static/js/2.c0f4f830.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react_dynamic-list-of-goods/static/media/background.43bfb6f3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cf2f8bf.js",
+    "static/js/2.c0f4f830.chunk.js",
+    "static/css/main.21696689.chunk.css",
+    "static/js/main.b511851e.chunk.js"
+  ]
+}
